@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ch03Ex2MovieList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|c:\\ch03ex2movielist\\movielist\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|solutionrelative:movielist\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|c:\\ch03ex2movielist\\movielist\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|solutionrelative:movielist\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|c:\\ch03ex2movielist\\movielist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|solutionrelative:movielist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|c:\\ch03ex2movielist\\movielist\\migrations\\20240608225804_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|solutionrelative:movielist\\migrations\\20240608225804_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|c:\\ch03ex2movielist\\movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|solutionrelative:movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Ch03Ex2MovieList\\MovieList\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieList\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Ch03Ex2MovieList\\MovieList\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "MovieList\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T14:26:06.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Ch03Ex2MovieList\\MovieList\\Views\\Movie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MovieList\\Views\\Movie\\Delete.cshtml",
+              "ToolTip": "C:\\Ch03Ex2MovieList\\MovieList\\Views\\Movie\\Delete.cshtml",
+              "RelativeToolTip": "MovieList\\Views\\Movie\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T14:25:15.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Ch03Ex2MovieList\\MovieList\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieList\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Ch03Ex2MovieList\\MovieList\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieList\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T13:57:38.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240608225804_database.cs",
+              "DocumentMoniker": "C:\\Ch03Ex2MovieList\\MovieList\\Migrations\\20240608225804_database.cs",
+              "RelativeDocumentMoniker": "MovieList\\Migrations\\20240608225804_database.cs",
+              "ToolTip": "C:\\Ch03Ex2MovieList\\MovieList\\Migrations\\20240608225804_database.cs",
+              "RelativeToolTip": "MovieList\\Migrations\\20240608225804_database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:58:05.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ch03Ex2MovieList\\MovieList\\Program.cs",
+              "RelativeDocumentMoniker": "MovieList\\Program.cs",
+              "ToolTip": "C:\\Ch03Ex2MovieList\\MovieList\\Program.cs",
+              "RelativeToolTip": "MovieList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T03:50:18.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
